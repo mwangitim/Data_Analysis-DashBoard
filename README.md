@@ -13,7 +13,7 @@ Relation between age and gender based on number of orders.
 Which Channel is contributing maximum to the sales?
 Highest selling category?
 Percentage of Total Orders delivered
-Dashboard Interaction View Dashboard
+Dashboard Interaction <a href="https://github.com/mwangitim/Data_Analysis-DashBoard/blob/main/Screenshot%20(495).png">View Dashboard</a>
 ## Process
 Verify data for any missing values and anomalies, and sort out the same.
 Made sure data is consistent and clean with respect to data type, data format and values used.
